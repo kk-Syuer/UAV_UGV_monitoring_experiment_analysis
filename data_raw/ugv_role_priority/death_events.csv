@@ -1,0 +1,16 @@
+run_id,time,uav_id,role,cause,battery_at_death,fleet_size,alive_count
+ugv_role_priority,1.77177e+09,uav1,0,BATTERY_DEAD,0.0784964,7,6
+ugv_role_priority,1.77177e+09,ch1,1,BATTERY_DEAD,0.0812435,7,5
+ugv_role_priority,1.77177e+09,uav1,0,BATTERY_DEAD,0.205014,7,4
+ugv_role_priority,1.77177e+09,ch1,1,BATTERY_DEAD,0.000681521,7,3
+ugv_role_priority,1.77177e+09,uav1,0,BATTERY_DEAD,99.3821,7,2
+ugv_role_priority,1.77178e+09,ch1,1,BATTERY_DEAD,0.0833745,7,1
+ugv_role_priority,1.77178e+09,uav1,0,BATTERY_DEAD,0.293156,7,0
+ugv_role_priority,1.77178e+09,ch1,1,BATTERY_DEAD,0.0135512,7,0
+ugv_role_priority,1.77178e+09,uav1,0,BATTERY_DEAD,96.0114,7,0
+ugv_role_priority,1.77178e+09,uav3,0,BATTERY_DEAD,95.4375,7,0
+ugv_role_priority,1.77178e+09,uav2,0,BATTERY_DEAD,93.4772,7,0
+ugv_role_priority,1.77178e+09,uav1,0,BATTERY_DEAD,99.4156,7,0
+ugv_role_priority,1.77178e+09,uav3,0,BATTERY_DEAD,0.242724,7,0
+ugv_role_priority,1.77178e+09,uav2,0,BATTERY_DEAD,0.285591,7,0
+ugv_role_priority,1.77178e+09,ch0,1,BATTERY_DEAD,0.0353572,7,0
